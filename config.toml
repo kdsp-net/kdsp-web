@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://kdsp.net"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
